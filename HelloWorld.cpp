@@ -11,5 +11,16 @@ int main() {
 
 	system("pause");
 
+	//Variablen
+
+	int zahl;
+	zahl = 10 * 2;
+	zahl++;
+	zahl = zahl - 10;
+
+	cout << zahl << endl;
+
+	system("pause");
+
 	return 0;
 }
